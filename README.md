@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Scince
+Data Science
